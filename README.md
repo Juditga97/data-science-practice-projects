@@ -39,6 +39,7 @@ data-science-challenges-projects/
 │   └── machine-learning/
 │
 └── README.md
+```
 
 ## 🚀 Related Projects
 
